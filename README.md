@@ -14,7 +14,7 @@
 
 ## 🛠 Skills & Tools
 
-Git • GitHub • Markdown • Zenodo • DMPonline • XNAT • OMERO • Python (basic)
+Git • GitHub • Markdown • Zenodo • DMPonline • XNAT • OMERO • Python 
 
 ---
 
@@ -36,9 +36,9 @@ Git • GitHub • Markdown • Zenodo • DMPonline • XNAT • OMERO • Pyth
 
 ## 📬 Contact Me
 
-- LinkedIn: [linkedin.com/in/shiprasuman](https://www.linkedin.com/in/shiprasuman)  
-- Email: your-email@ucl.ac.uk  
-- ORCID: [0000-0000-0000-0000](https://orcid.org/0000-0000-0000-0000)
+- LinkedIn: (https://www.linkedin.com/in/shiprasuman)  
+- Email: s.suman@ucl.ac.uk  
+- ORCID: (https://orcid.org/0000-0002-1689-1704)
 
 ---
 
